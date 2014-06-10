@@ -1,0 +1,8 @@
+# horse_js Exercise
+
+Simply get the html, the css and the template.png file to compare the result with what's expected
+
+# Notes
+
+I'm not sure about the used font, but with helvetica, it's very close.
+It's multi-browser compatible (IE >= 8)
